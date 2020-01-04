@@ -29,6 +29,8 @@ ul.ddmenu li {
    display: inline-block; /* ★横並びに配置する */
    list-style-type: none; /* ★リストの先頭記号を消す */
    position: relative;    /* ★サブメニュー表示の基準位置にする */
+   color: white;
+   text-align: center;
 }
 ul.ddmenu a {
    background-color: #cc0000; /* メニュー項目の背景色(濃い赤色) */
